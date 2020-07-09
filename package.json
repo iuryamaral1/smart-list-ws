@@ -1,0 +1,19 @@
+{
+  "name": "smart-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuryamaral1/smart-list-ws.git"
+  },
+  "author": "Iury Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuryamaral1/smart-list-ws/issues"
+  },
+  "homepage": "https://github.com/iuryamaral1/smart-list-ws#readme"
+}
