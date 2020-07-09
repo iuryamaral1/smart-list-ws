@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/iuryamaral1/smart-list-ws/issues"
   },
-  "homepage": "https://github.com/iuryamaral1/smart-list-ws#readme"
+  "homepage": "https://github.com/iuryamaral1/smart-list-ws#readme",
+  "dependencies": {
+    "uuid": "^8.2.0",
+    "ws": "^7.3.1"
+  }
 }
